@@ -3,7 +3,7 @@
 ![](src/main/resources/com/example/melodyhub/images/logo.jpg)
 ------------------------
 
-This undertaking represents the culmination of an extensive and arduous effort, fraught with numerous challenges and obstacles encountered during the implementation phase. Our team, consisting of myself [Seyed](https://github.com/seyed0123) and my esteemed colleagues [E-ELMTALAB](https://github.com/E-ELMTALAB) and [Saba](https://github.com/sabamadadi), has devoted countless hours and resources to the development of this project, utilizing a variety of programming languages including Java, Python, and C++.
+This undertaking represents the culmination of an extensive and arduous effort, fraught with numerous challenges and obstacles encountered during the implementation phase. Our team, consisting of myself [Saba Madadi](https://github.com/sabamadadi) and my esteemed colleagues [Erfan Elmtalab](https://github.com/E-ELMTALAB) and [Ali Hoseininasab](https://github.com/seyed0123), has devoted countless hours and resources to the development of this project, utilizing a variety of programming languages including Java, Python, and C++.
 
 Over the course of approximately one month, we have persevered through setbacks and difficulties, consistently pushing ourselves to produce the highest-quality result possible. The fruits of our labor are now available for your review and consideration.
 
