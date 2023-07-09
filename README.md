@@ -1,4 +1,3 @@
-# In the name of God
 # MelodyHub
 ![](src/main/resources/com/example/melodyhub/images/logo.jpg)
 ------------------------
