@@ -1,6 +1,6 @@
 # MelodyHub
 
-Final Project of Advanced Programming Course
+Final Project of Advanced Programming Course at Shahid Beheshti University (Spring 2023)
 
 Score: 120 out of 100 [20 extra points] (First Team)
 
