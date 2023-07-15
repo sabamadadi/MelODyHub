@@ -1,4 +1,9 @@
 # MelodyHub
+
+Final Project of Advanced Programming Course
+
+Score: 120 out of 100 [20 extra points] (First Team)
+
 ![](src/main/resources/com/example/melodyhub/images/logo.jpg)
 ------------------------
 
