@@ -5,6 +5,7 @@ Final Project of Advanced Programming Course at Shahid Beheshti University (Spri
 Score: 120 out of 100 [20 extra points] (First Team)
 
 ![](src/main/resources/com/example/melodyhub/images/logo.jpg)
+
 ------------------------
 
 This undertaking represents the culmination of an extensive and arduous effort, fraught with numerous challenges and obstacles encountered during the implementation phase. Our team, consisting of myself [Saba Madadi 🙃](https://github.com/sabamadadi) and my esteemed colleagues [Erfan Elmtalab 😎](https://github.com/E-ELMTALAB) and [Seyed 😎](https://github.com/seyed0123), has devoted countless hours and resources to the development of this project, utilizing a variety of programming languages including Java, Python, and C++.
@@ -16,6 +17,9 @@ As a viewer of this project, I implore you to lend us your support by bestowing 
 ------------------------------
 
 ![header](src/main/resources/com/example/melodyhub/images/header.jpg)
+
+<p align="center">
+  <img src="src/main/resources/com/example/melodyhub/images/Logo.gif" />
 
 # Intrudoction
 
