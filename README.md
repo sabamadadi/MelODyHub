@@ -4,6 +4,13 @@ Final Project of Advanced Programming Course at Shahid Beheshti University (Spri
 
 Score: 120 out of 100 [20 extra points] (First Team)
 
+Course Instructor: [Dr. Kheradpisheh](https://github.com/SRKH)
+
+Chief Project Refree: [Arsham khoee](https://github.com/arsham-khoee)
+
+Team Mentor: [Alireza Afroozi](https://github.com/apri-me)
+
+
 ![](src/main/resources/com/example/melodyhub/images/logo.jpg)
 
 ------------------------
